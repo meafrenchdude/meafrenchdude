@@ -17,7 +17,7 @@
 <h3 align="left">My links:</h3>
 
 <p>
-  <a href="https://t.me/AFDTechStuff">
+  <a href="https://t.me/AFDSpace">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="185"/>
   </a>
   <a href="https://www.instagram.com/meafrenchdude">
